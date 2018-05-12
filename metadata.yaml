@@ -1,4 +1,8 @@
 _repo: The-Talk-of-the-Town-Volume-2-of-2_47965
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47965-h/images/cover.jpg
 creator:
   author:
     agent_name: Payn, James
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4707
     wikipedia: http://en.wikipedia.org/wiki/James_Payn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47965#The-Talk-of-the-Town-Volume-2-of-2
 gutenberg_issued: '2015-01-13'
 gutenberg_type: Text
 identifiers:
